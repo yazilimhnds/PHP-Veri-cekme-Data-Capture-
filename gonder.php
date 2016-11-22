@@ -8,7 +8,7 @@ $mail=$_POST['mail'];
 $yorum=$_POST['yorum'];
 $ziyaret=$_POST['ziyaret'];
 
-$emailadresi="info@bizimbilisim.com"; 
+$emailadresi="****@hotmail.com"; 
 $emailkonusu="Site iletisim Formu"; 
 
 if (empty($isim) or empty($soyad) or empty($mail) or empty($yorum)){ 

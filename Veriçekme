@@ -7,7 +7,8 @@ $cekme = mysql_query ("select * from konser");
 
 
 while($goster = mysql_fetch_array($cekme)) 
-{ 
+{
+
 
 extract ($goster); 
 
@@ -18,3 +19,4 @@ extract ($goster);
 
 
 ?>
+

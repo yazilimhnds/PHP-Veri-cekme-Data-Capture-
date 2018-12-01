@@ -12,6 +12,6 @@ $db = new MysqliDb (Array (
 
                 'port' => 3306,
 
-                'prefix' => '',
+                'prefix' => '****',
 
                 'charset' => 'utf8'));
